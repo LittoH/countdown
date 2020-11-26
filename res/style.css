@@ -1,7 +1,9 @@
+/*
 @font-face {
     font-family: lobster;
     src: url('res/Lobster-Regular.ttf') format('ttf');
 }
+*/
 
 body {
     margin: 0;
@@ -55,13 +57,13 @@ section{
     flex-flow: column nowrap;
     justify-content: center;
     text-align: center;
-    font-family: arial;
+    font-family: 'Lobster', cursive;
     font-size: 2rem;
 }
 
 section>p{
     font-size: 10vw;
-    font-family: lobster;
+    font-family: 'Lobster', cursive;
     text-align: center;
     text-shadow: 0px 0px 20px #000000;
 }
