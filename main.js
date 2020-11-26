@@ -327,8 +327,8 @@ window.addEventListener("DOMContentLoaded", init);
 
 
 // Set the date we're counting down to
-var countDownDate = new Date("Apr 01, 2021 00:00:00").getTime();
-// DATA DEBUG                        var countDownDate = new Date("Nov 26, 2020 01:50:30").getTime();
+//var countDownDate = new Date("Apr 01, 2021 00:00:00").getTime();
+var countDownDate = new Date("Nov 26, 2020 15:56:30").getTime();
 
 // Update the count down every 1 second
 var x = setInterval(function() {
