@@ -275,8 +275,8 @@ function clearCanvas() {
 
 //make the canvas full-screen
 function adjustCanvas() {
-    //canvas.width = window.innerWidth;
-    //canvas.height = window.innerHeight;
+    canvas.width = window.innerWidth;
+    canvas.height = window.innerHeight;
     //Change values based on the canvas size
     adjustValues();
 }
