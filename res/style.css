@@ -40,6 +40,8 @@ div.countdown-container{
 div.slider-container {
     z-index: -1;
     position: absolute;
+    background-position: center;
+    background-size: cover;
     
     
 }
