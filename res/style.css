@@ -70,6 +70,13 @@ section>p{
     text-shadow: 0px 0px 20px #000000;
 }
 
+section>p.testo-intro{
+    font-size: 2vw;
+    font-family: 'Lobster', cursive;
+    text-align: center;
+    text-shadow: 0px 0px 20px #000000;
+}
+
 /*
 p.countdown {
     font-family: lobster;
@@ -77,3 +84,19 @@ p.countdown {
 }
 
 */
+
+@media (max-width: 767px){
+    section>p{
+        font-size: 10vw;
+        font-family: 'Lobster', cursive;
+        text-align: center;
+        text-shadow: 0px 0px 20px #000000;
+    }
+
+    section>p.testo-intro{
+        font-size: 4vw;
+        font-family: 'Lobster', cursive;
+        text-align: center;
+        text-shadow: 0px 0px 20px #000000;
+    }
+  }
