@@ -71,6 +71,7 @@ section>p{
 }
 
 section>p.testo-intro{
+    margin-top: -200px;
     font-size: 2vw;
     font-family: 'Amatic SC', cursive;
     text-align: center;
@@ -94,9 +95,10 @@ p.countdown {
     }
 
     section>p.testo-intro{
+        margin-top: 0;
         font-size: 4vw;
         font-family: 'Amatic SC', cursive;
         text-align: center;
         text-shadow: 0px 0px 20px #000000;
     }
-  }
+}
