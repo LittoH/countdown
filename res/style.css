@@ -41,8 +41,7 @@ div.slider-container {
     background-position: center;
     background-size: cover;
 
-    background-attachment: fixed;
-    background-size:100% auto;
+    object-fit: cover;
     
 }
 
