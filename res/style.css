@@ -27,11 +27,15 @@ div.countdown-container{
 
 .mySlides {
     display:none;
+    /*
     max-width: 100%;
     max-height: 100%;
+    */
     transform: scale(1.3);
-    height: 100%; 
+    
     object-fit: cover;
+    width: 300px;
+    height: 337px;
     
     opacity: 45%;
     
@@ -40,11 +44,11 @@ div.countdown-container{
 div.slider-container {
     z-index: -1;
     position: absolute;
+    /*
     background-position: center;
     background-size: cover;
-
     object-fit: cover;
-    
+    */
 }
 
 canvas{
