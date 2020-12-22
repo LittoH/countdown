@@ -87,6 +87,14 @@ section>p.testo-intro{
     text-shadow: 0px 0px 20px #000000;
 }
 
+section>p.testo-inpensione{
+    margin-top: 0;
+    font-size: 2vw;
+    font-family: 'Amatic SC', cursive;
+    text-align: center;
+    text-shadow: 0px 0px 20px #000000;
+}
+
 /*
 p.countdown {
     font-family: lobster;
