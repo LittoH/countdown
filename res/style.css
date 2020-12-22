@@ -122,6 +122,7 @@ p.countdown {
 
     section>p.testo-inpensione{
         margin-top: 0;
+        margin-bottom: 0;
         font-size: 4vw;
         font-family: 'Amatic SC', cursive;
         text-align: center;
@@ -147,6 +148,7 @@ p.countdown {
 
     section>p.testo-inpensione{
         margin-top: 0;
+        margin-bottom: 0;
         font-size: 4vw;
         font-family: 'Amatic SC', cursive;
         text-align: center;
